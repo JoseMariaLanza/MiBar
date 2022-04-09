@@ -25,7 +25,7 @@
     },
     "dependencies": {
         "luxon": "^1.21.2",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "vue-ctk-date-time-picker": "^2.4.0",
         "vuejs-datepicker": "^1.6.2",
         "vuejs-datetimepicker": "^1.1.13",
